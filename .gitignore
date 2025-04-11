@@ -2,3 +2,4 @@ dane/
 *.pth
 *.png
 *.json
+*.csv
